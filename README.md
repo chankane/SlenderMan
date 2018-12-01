@@ -1,8 +1,6 @@
 SlenderMan
 ====
 
-Overview
-
 ## Description
 [Slender: The Eight Pages](https://dic.nicovideo.jp/a/slender)というゲームにインスパイアを受け、高校2年生の時に作成しました
 
